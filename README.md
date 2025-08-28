@@ -1,6 +1,6 @@
 
 
-===== DigitProduct.java =====
+//DigitProduct.java
 
 
 import java.util.Scanner;
